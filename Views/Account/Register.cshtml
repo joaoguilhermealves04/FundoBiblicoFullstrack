@@ -1,0 +1,86 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Congregação Cristã No Brasil</title>
+    <link href="~/bootstrap-5.0.0-beta1-dist/css/bootstrap.css" rel="stylesheet" />
+
+</head>
+
+<body class="container-xl mt-4 bg-light ">
+
+    <h5 class="text-info">Registar Voluntário Fundo Bíiblico</h5>
+    <br/>
+    <a href="/Home/Index" class="btn btn-info">Voltar</a>
+    <hr />
+
+    <div class="mb-3">
+
+        <strong class="text-danger" >@TempData["Mensagem"]</strong>  
+
+    </div>
+    
+    <form method="post" action="/Account/Register" class="col-md-4">
+
+        <label class="text-info">Nome</label>
+        <input type="text" name="nome" class="form-control"
+               placeholder="Digite Aqui" required="required" />
+
+        <br />
+
+        <label class="text-info">CPF</label>
+        <input type="text" name="cpf" class="form-control"
+               placeholder="Digite aqui" required="required" />
+
+        <br />
+        <label class="text-info">Data de Nascimento</label>
+        <input type="date" name="datanascimento" class="form-control"
+               required="required" />
+
+        <br />
+
+
+        <label class="text-info">Data de Batismo</label>
+        <input type="date" name="databatismo" class="form-control"
+               required="required" />
+
+        <br />
+        <label class="text-info">Email</label>
+        <input type="text" name="Email" class="form-control"
+               placeholder="Digite Aqui" required="required" />
+
+        <br />
+        <label class="text-info">Nome de Usuario</label>
+        <input type="text" name="nomeusuario" class="form-control"
+               placeholder="Digite Aqui" required="required" />
+
+        <br />
+
+        <label class="text-info">Cria uma Senha</label >
+        <input type="password" name="senha" class="form-control"
+               placeholder="Digite Aqui" required="required" />
+
+        <br />
+        <label class="text-info">Confirma sua Senha</label>
+        <input type="password" name="senhaConfirmada" class="form-control"
+               placeholder="Digite Aqui" required="required" />
+
+        <br/>
+
+
+
+        <input type="submit" value="Cadastrar"
+               class="btn  btn-outline-primary"/>
+
+
+
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Congregação Cristã No Brasil</title>
+    <link href="~/bootstrap-5.0.0-beta1-dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body class="container-xl mt-4 bg-light">
+
+    <h5 class="text-info">Autenticação de Usuario </h5>
+
+    <a href="/Home/Index" class="btn btn-info">Voltar</a>
+    <hr/>
+
+    <form method="post" action="/Account/Login"class="col-md-4 cen ">
+
+        <label class="text-info">Nome de Usuario</label>
+        <input type="text" name="nomeusuario" class="form-control"
+               placeholder="Digite Aqui" required="required" />
+
+        <br/>
+
+        <label class="text-info">Senha</label>
+        <input type="password" name="senha" class="form-control"
+               placeholder="Digiti Aqui" required="required" />
+
+        <br/>
+
+        <input type="submit" value="Acessar"
+               class="btn btn-outline-primary"/>
+ 
+
+
+    </form>
+
+
+</body>
+</html>

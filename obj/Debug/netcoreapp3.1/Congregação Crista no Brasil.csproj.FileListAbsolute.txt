@@ -1,0 +1,226 @@
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.exe
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.deps.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.runtimeconfig.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\staticwebassets\Congregação Crista no Brasil.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\staticwebassets\Congregação Crista no Brasil.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\scopedcss\bundle\Congregação Crista no Brasil.styles.css
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.Views.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.Views.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.Views.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.exe
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.deps.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.runtimeconfig.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.Views.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Congregação Crista no Brasil.Views.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\staticwebassets\Congregação Crista no Brasil.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\staticwebassets\Congregação Crista no Brasil.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\scopedcss\bundle\Congregação Crista no Brasil.styles.css
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.Views.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.dll
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.pdb
+C:\Users\Usuario\source\repos\Congregação Crista no Brasil\Congregação Crista no Brasil\ccb\obj\Debug\netcoreapp3.1\Congregação Crista no Brasil.genruntimeconfig.cache
